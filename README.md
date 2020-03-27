@@ -1,2 +1,0 @@
-# infinitescroll
-Created with CodeSandbox
